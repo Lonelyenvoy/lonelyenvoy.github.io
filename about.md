@@ -10,7 +10,7 @@ header-img: "img/facebook.jpg"
     <p><img src="/img/envoy.png" align="center"></p>
 </center>
 
-我是envoy，就读于国内某大学搬砖专业，目前是一名独立开发者。
+我是envoy，就读于国内某高校搬砖专业，目前是一名独立开发者。
 
 #### 兴趣
 
