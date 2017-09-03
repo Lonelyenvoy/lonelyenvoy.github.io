@@ -23,7 +23,7 @@ header-img: "img/facebook.jpg"
 
 #### 我的朋友们
 
-- [YiRabbit](http://yirabbit.me)
+- [忆兔](http://yirabbit.me)
 - [小神先生](http://blog.alienx.cn)
 
 
