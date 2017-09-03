@@ -10,4 +10,6 @@ header-img: "img/zhihu.jpg"
     <p><img src="/img/envoy.png" align="center"></p>
 </center>
 
-这里还没有里程碑喔
+<center>
+    这里还没有里程碑喔
+</center>
