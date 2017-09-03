@@ -2,7 +2,7 @@
 layout: page
 title: "About"
 description: ""
-header-img: "/img/facebook.jpg"
+header-img: "img/facebook.jpg"
 ---
 
 
