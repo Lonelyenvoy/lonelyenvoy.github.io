@@ -21,11 +21,15 @@ header-img: "img/facebook.jpg"
 - 响应式和函数式编程
 - 自然语言处理 (NLP)
 
+
 #### 我的朋友们
 
 - [忆兔](http://yirabbit.me)
 - [小神先生](http://blog.alienx.cn)
 
+
 #### 联系我
 
 - [Github](https://github.com/lonelyenvoy)
+
+
