@@ -12,7 +12,7 @@ header-img: "img/facebook.jpg"
 
 我是envoy，就读于国内某大学搬砖专业，目前是一名独立开发者。
 
-#### 关注
+#### 兴趣
 
 - Web开发
 - 爬虫
@@ -26,4 +26,6 @@ header-img: "img/facebook.jpg"
 - [忆兔](http://yirabbit.me)
 - [小神先生](http://blog.alienx.cn)
 
+#### 联系我
 
+- [Github](https://github.com/lonelyenvoy)
