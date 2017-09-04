@@ -23,9 +23,8 @@
 
 
 <!-- Highlight.js -->
+<script src="{{ "/js/highlight.min.js " | prepend: site.baseurl }}"></script>
 <script>
-    async("http://cdn.bootcss.com/highlight.js/8.6/highlight.min.js",function(){
-        hljs.initHighlightingOnLoad();
-    })
+    hljs.initHighlightingOnLoad();
 </script>
-<link href="http://cdn.bootcss.com/highlight.js/8.6/styles/github.min.css" rel="stylesheet">
+<link href="/css/highlight-js.github.min.css" rel="stylesheet">
