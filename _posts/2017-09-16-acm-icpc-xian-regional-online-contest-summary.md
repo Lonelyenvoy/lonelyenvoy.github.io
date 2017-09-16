@@ -60,7 +60,6 @@ int main(){
 以下是**不**正确的代码：
 
 ```cpp
-
 #include <iostream>
 using namespace std;
 const long KLS=998244353;
