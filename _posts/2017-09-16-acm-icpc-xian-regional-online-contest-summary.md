@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 2017 ACM-ICPC 西安赛区网络赛总结
-date: 2017-09-17
+date: 2017-09-16
 categories: blog
 tags: [ACM]
 description: 
