@@ -14,4 +14,4 @@ You may visit this website at <a href="http://envoy.ink" target="_blank">envoy.i
 Use <a href="https://github.com/lonelyenvoy/ACMCodingPlayground/issues" target="_blank">issue</a> to communicate with <a href="https://github.com/lonelyenvoy" target="_blank">lonelyenvoy</a>.
 
 ### License
-<a href="https://" target="_blank">The MIT License</a>
+<a href="https://github.com/lonelyenvoy/lonelyenvoy.github.io/blob/master/LICENSE" target="_blank">The Apache-2.0 License</a>
