@@ -1,24 +1,17 @@
-##说明
+lonelyenvoy.github.io
+===
 
-2016-02-29  更新 _config.yml 可用
+This repository is a blog for lonelyenvoy powered by 
+<a href="https://pages.github.com" target="_blank">Github Pages</a> 
+and 
+<a href="http://jekyllrb.com/" target="_blank">Jekyll</a>, forked from 
+<a href="https://github.com/cnfeat/blog.io" target="_blank">cnfeat/blog.io</a>.
 
-此博客 fork 自 [Azeril](http://azeril.me/)，感谢。
+### Visit
+You may visit this website at <a href="http://envoy.ink" target="_blank">envoy.ink</a>.
 
-##读立写生
+### Contacts
+Use <a href="https://github.com/lonelyenvoy/ACMCodingPlayground/issues" target="_blank">issue</a> to communicate with <a href="https://github.com/lonelyenvoy" target="_blank">lonelyenvoy</a>.
 
-我是陈素封，博客：[cnfeat.com](cnfeat.com)
-
-每天千字践行者，践行时间：2014年02月10日至2014年02月23日，感谢这段经历，让我成为了现在的我。
-
-现在研习 **认知写作学** 。
-
-##坚信
-
-
-- 元认知乃一切之源
-- 学苟知本，六经皆我注脚 
-- 一切技能皆可习得，包括写作
-- 「持续」并不是坚持，写就是最好的回报
-
-
-
+### License
+<a href="https://" target="_blank">The MIT License</a>
