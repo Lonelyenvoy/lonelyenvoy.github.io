@@ -14,11 +14,12 @@ header-img: "img/facebook.jpg"
 
 #### 兴趣
 
-- Web开发：Angular, Typescript, ASP.NET Core
+- Web开发：Angular, Typescript, Java, ASP.NET Core
 - 爬虫：Python
 - 响应式和函数式编程：Rx, Scala
 - 算法设计：C/C++
 - ACM/ICPC
+- 编译器优化与性能调优
 - Linux
 - 自然语言处理 (NLP)
 
