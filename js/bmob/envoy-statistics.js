@@ -1,7 +1,7 @@
 /*
  * envoy statistics script
  * powered by bmob JavaScript SDK
- * version 0.2
+ * version 0.2.1
  * 
  * require: Sohu IP interface (http://pv.sohu.com/cityjson)
  *          Sina IP Service (http://int.dpool.sina.com.cn/iplookup/iplookup.php?format=js)
@@ -55,7 +55,7 @@
   }
   visitors.save(null, {
     success: function () {
-      console.log('echo hello');
+      // do nothing
     },
     error: function () {
       console.log('Error occured when sending ip info to Bomb');
