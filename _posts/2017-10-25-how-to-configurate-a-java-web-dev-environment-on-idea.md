@@ -10,15 +10,15 @@ description:
 > 此教程面向高校学生/教师开发者。
 
 ### 1. 下载并安装Intellij IDEA __Ultimate__
-http://www.jetbrains.com/idea/download
+[http://www.jetbrains.com/idea/download](http://www.jetbrains.com/idea/download)
 
 注意：请安装Ultimate而不是Community版本
 
 ### 2. 下载并安装Tomcat
-http://tomcat.apache.org/
+[http://tomcat.apache.org/](http://tomcat.apache.org/)
 
 ### 3. 下载并安装git
-https://git-scm.com/downloads
+[https://git-scm.com/downloads](https://git-scm.com/downloads)
 
 打开命令行
 ```bash
@@ -28,7 +28,7 @@ git version 2.14.1
 如果git的版本号正常显示则表示安装成功。
 
 ### 4. 申请Jetbrains学生免费授权计划
-https://www.jetbrains.com/student/
+[https://www.jetbrains.com/student/](https://www.jetbrains.com/student/)
 
 使用学校提供的edu邮箱完成申请。
 
