@@ -91,6 +91,6 @@ Resolving deltas: 100% (10/10), done.
 
 ![示意图](/resources/post-2017-10-25-6-10.png)
 
-### 7. 运行项目：按Shift+10完美运行
+### 7. 运行项目：按Shift+F10完美运行
 
 
