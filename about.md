@@ -27,7 +27,7 @@ header-img: "img/facebook.jpg"
 #### 我的朋友们
 
 - [忆兔](http://yirabbit.me)
-- [小神先生](http://blog.alienx.cn)
+- [小神先生](http://alienx.cn)
 
 
 #### 联系我
