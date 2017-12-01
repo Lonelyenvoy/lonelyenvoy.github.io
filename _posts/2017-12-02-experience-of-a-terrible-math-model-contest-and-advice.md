@@ -87,4 +87,4 @@ description:
 4. 认证杯数学建模竞赛。
 5. 认证杯国际数学竞赛。
 
-更多详情请见[知乎](https://www.zhihu.com/question/67942657/)。
+更多详情请见[知乎：如何评价2017年...数学建模挑战赛？](https://www.zhihu.com/question/67942657/)。
