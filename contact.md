@@ -6,7 +6,7 @@ header-img: "img/semantic.jpg"
 ---
 
 <div class="form-element" id="anonymousDiv">
-    <input id="anonymous" type="checkbox" /><label for="anonymous">匿名</label>
+    <input id="anonymous" type="checkbox" /><label for="anonymous">&nbsp;匿名</label>
 </div>
 <div class="form-element">
     <input class="field" id="nickname" placeholder="您的昵称" />
@@ -19,12 +19,12 @@ header-img: "img/semantic.jpg"
 </div>
 <button class="form-element" id="submit">提交</button>
 
-<div id="submitting" class="submitting" style="display:none"><p>正在提交...</p></div>
-<div id="submit-succ" class="submit-succ" style="display:none"><p>提交成功</p></div>
-<div id="submit-fail" class="submit-fail" style="display:none"><p>提交失败，请稍后重试</p></div>
+<div id="submitting" class="submit-info" style="display:none;color:blue"><p>正在提交，请稍候...</p></div>
+<div id="submit-succ" class="submit-info" style="display:none;color:green"><p>提交成功</p></div>
+<div id="submit-fail" class="submit-info" style="display:none;color:red"><p>提交失败，请稍后重试</p></div>
 
 <style>
-    .form-element {
+    .form-element, .submit-info {
         margin: 10px;
     }
 
