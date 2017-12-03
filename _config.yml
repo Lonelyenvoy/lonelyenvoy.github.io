@@ -4,7 +4,8 @@ header-img: "img/green.jpg"
 tagline: "cn"  
 description: "envoy's blog"  
 baseurl: ""
-url: "envoy.ink"  
+url: "http://envoy.ink"  
+urlWithoutPrefix: "envoy.ink"
 
 # About/contact
 owner: 
