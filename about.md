@@ -1,7 +1,8 @@
 ---
 layout: page
 title: "About"
-description: ""
+subtitle: "关于我"
+description: "关于我"
 header-img: "img/facebook.jpg"
 ---
 

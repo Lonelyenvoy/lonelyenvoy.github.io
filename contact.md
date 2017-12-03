@@ -1,6 +1,7 @@
 ---
 layout: page
 title: "Contact"
+subtitle: "留言"
 description: "联系博主"  
 header-img: "img/semantic.jpg"  
 ---
