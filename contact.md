@@ -15,7 +15,7 @@ header-img: "img/semantic.jpg"
     <input class="field" id="contact" placeholder="联系方式（邮箱/微信/QQ/手机等）" />
 </div>
 <div class="form-element">
-    <textarea class="field" id="content" placeholder="您想说的话"></textarea>
+    <textarea class="field field-textarea" id="content" placeholder="您想说的话" rows="3"></textarea>
 </div>
 <button class="form-element" id="submit">提交</button>
 
@@ -30,6 +30,10 @@ header-img: "img/semantic.jpg"
 
     .field {
         width: 100%;
+    }
+
+    .field-textarea {
+        resize: vertical;
     }
 
 </style>
