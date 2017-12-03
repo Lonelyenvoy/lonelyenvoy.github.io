@@ -21,7 +21,7 @@ header-img: "img/blue.jpg"
 <button class="form-element" id="submit">提交</button>
 
 <div id="submitting" class="submit-info" style="display:none;color:blue"><p>正在提交，请稍候...</p></div>
-<div id="submit-succ" class="submit-info" style="display:none;color:green"><p>提交成功</p></div>
+<div id="submit-succ" class="submit-info" style="display:none;color:green"><p>提交成功，感谢您的留言</p></div>
 <div id="submit-fail" class="submit-info" style="display:none;color:red"><p>提交失败，请稍后重试</p></div>
 
 <style>
