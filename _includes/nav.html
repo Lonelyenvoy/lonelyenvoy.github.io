@@ -63,7 +63,7 @@
 
         document.ready(function () {
             // get cookie
-            var visited = Cookie.get('visitedFromMobileDevices');
+            var visited = Cookies.get('visitedFromMobileDevices');
             if (visited === undefined || visited === 'false') { // first visit from mobile devices, show navbar animation
                 var activateMenu = function() { var btn = document.getElementById('menuButton'); btn.click(); btn.style.backgroundColor = '#ddd'; }
                 var deactivateMenu = function() { var btn = document.getElementById('menuButton'); btn.click(); btn.style.backgroundColor = ''; }
@@ -72,7 +72,7 @@
             }
             var inMobileView = window.matchMedia('(max-width: 767px)').matches; // see whether the user is using a mobile device
             if (inMobileView) {
-                Cookie.set('visitedFromMobileDevices', 'true', { expires: 30 }); // set cookie as visited
+                Cookies.set('visitedFromMobileDevices', 'true', { expires: 30 }); // set cookie as visited
             }
         });
         
