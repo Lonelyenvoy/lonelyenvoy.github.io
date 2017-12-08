@@ -65,6 +65,7 @@
             console.log('document.ready()');
             // get cookie
             var visited = Cookies.get('visitedFromMobileDevices');
+            console.log(visited);
             if (visited === undefined || visited === 'false') { // first visit from mobile devices, show navbar animation
                 var activateMenu = function() { console.log('activate'); var btn = document.getElementById('menuButton'); btn.click(); btn.style.backgroundColor = '#ddd'; }
                 var deactivateMenu = function() { console.log('deactivated'); var btn = document.getElementById('menuButton'); btn.click(); btn.style.backgroundColor = ''; }
