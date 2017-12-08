@@ -62,23 +62,20 @@
         })();
 
         document.ready(function () {
-            console.log('document.ready()');
             // get cookie
             var visited = Cookies.get('visitedFromMobileDevices');
-            console.log(visited);
-            if (visited === undefined || visited === 'false') { // first visit from mobile devices, show navbar animation
-                var activateMenu = function() { console.log('activate'); var btn = document.getElementById('menuButton'); btn.click(); btn.style.backgroundColor = '#ddd'; }
-                var deactivateMenu = function() { console.log('deactivated'); var btn = document.getElementById('menuButton'); btn.click(); btn.style.backgroundColor = ''; }
-                setTimeout(activateMenu, 1500);
-                setTimeout(deactivateMenu, 2000);
-                console.log('animation set');
-            }
-            var inMobileView = window.matchMedia('(max-width: 767px)').matches; // see whether the user is using a mobile device
-            if (inMobileView) {
-                console.log('cookies set');
-                Cookies.set('visitedFromMobileDevices', 'true', { expires: 30 }); // set cookie as visited
+            if (visited === undefined || visited === 'false') { // first visit
+                var inMobileView = window.matchMedia('(max-width: 767px)').matches; // see whether the user is using a mobile device
+                if (inMobileView) {
+                    // show navbar animation
+                    var activateMenu = function() { var btn = document.getElementById('menuButton'); btn.click(); btn.style.backgroundColor = '#ddd'; }
+                    var deactivateMenu = function() { var btn = document.getElementById('menuButton'); btn.click(); btn.style.backgroundColor = ''; }
+                    setTimeout(activateMenu, 1500);
+                    setTimeout(deactivateMenu, 2000);
+                    // set cookie as visited
+                    Cookies.set('visitedFromMobileDevices', 'true', { expires: 30 });
+                }
             }
         });
-        
     })();
 </script>
