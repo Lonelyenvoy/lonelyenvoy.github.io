@@ -61,7 +61,7 @@
             };
         })();
 
-        document.ready(function () {
+        window.onload(function () {
             // get cookie
             var visited = Cookies.get('visitedFromMobileDevices');
             if (visited === undefined || visited === 'false') { // first visit from mobile devices, show navbar animation
