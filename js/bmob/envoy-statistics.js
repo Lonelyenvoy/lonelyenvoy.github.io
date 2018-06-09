@@ -1,14 +1,14 @@
 /*
  * envoy statistics script
  * powered by bmob JavaScript SDK
- * version 0.2.1
+ * version 0.3.0
  * 
- * require: Sohu IP interface (http://pv.sohu.com/cityjson)
- *          Sina IP Service (http://int.dpool.sina.com.cn/iplookup/iplookup.php?format=js)
+ * require: Sohu IP interface (https://pv.sohu.com/cityjson)
+ *          Sina IP Service (https://int.dpool.sina.com.cn/iplookup/iplookup.php?format=js)
  *          Bmob SDK (https://docs.bmob.cn)
  * 
  * Copyright (c) envoy 2017
- * Released under the MIT license.
+ * Released under the Apache-2.0 license.
  */
 
 (function () {
@@ -20,30 +20,28 @@
   var restAPIKey = '55799ac3fcff183bdb7593c0ebf32344';
 
   // fetch ip address from Sohu IP interface
-  if (!returnCitySN) {
+  if (!window.returnCitySN) {
     console.log('Failed to fetch ip address from Sohu ip service');
-    return;
   }
-  if (!remote_ip_info) {
+  if (!window.remote_ip_info) {
     console.log('Failed to get ip info from Sina ip service');
-    return;
   }
-  var ip = returnCitySN.cip;
-  var ipInfo = remote_ip_info;
+  var ip = window.returnCitySN.cip;
+  var ipInfo = window.remote_ip_info || {};
 
   // init Bmob service
   Bmob.initialize(applicationId, restAPIKey);
 
   // send ip info to Bmob
   var ipInfo = {
-    'ip': ip,
-    'country': ipInfo.country,
-    'province': ipInfo.province,
-    'city': ipInfo.city,
-    'district': ipInfo.district,
-    'isp': ipInfo.isp,
-    'type': ipInfo.type,
-    'desc': ipInfo.desc,
+    'ip': ip || '',
+    'country': ipInfo.country || '',
+    'province': ipInfo.province || '',
+    'city': ipInfo.city || '',
+    'district': ipInfo.district || '',
+    'isp': ipInfo.isp || '',
+    'type': ipInfo.type || '',
+    'desc': ipInfo.desc || '',
     'url': window.location.href
   };
 
