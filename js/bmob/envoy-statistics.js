@@ -1,9 +1,10 @@
 /*
  * envoy statistics script
  * powered by bmob JavaScript SDK
- * version 0.4.0
+ * version 0.4.1
  * 
- * require: Bmob SDK (https://docs.bmob.cn)
+ * require: Sohu IP interface (https://pv.sohu.com/cityjson)
+ *          Bmob SDK (https://docs.bmob.cn)
  * 
  * Copyright (c) envoy 2017
  * Released under the Apache-2.0 license.
@@ -39,11 +40,13 @@
 
   // fetch ip info from ipapi
   $.get('https://ipapi.co/json', function (data) {
+    data.ipv4 = window.returnCitySN || '';  // add ipv4 from sohu
     data.url = window.location.href;  // add url
     sendIpInfoToBmob(data);
   }).fail(function () {
     console.log('Failed to fetch ip info from ipapi');
     var data = {
+      ipv4: window.returnCitySN || '',  // add ipv4 from sohu
       url: window.location.href  // add url
     };
     sendIpInfoToBmob(data);
