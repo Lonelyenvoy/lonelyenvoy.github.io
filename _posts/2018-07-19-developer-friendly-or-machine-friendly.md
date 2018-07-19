@@ -23,7 +23,7 @@ description:
 
 ### 对开发者友好的实现
 
-使用Java的函数式特性（JDK 1.8+）可以用短短几行代码完成需求。
+使用Java的函数式特性（JDK 1.8+）可以用短短几行代码完成需求。（参数合法性检查已略去，下同）
 
 ```java
 import java.util.stream.IntStream;
