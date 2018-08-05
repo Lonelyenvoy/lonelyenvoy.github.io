@@ -21,26 +21,11 @@ Java将数据类型分为基本类型（Primitive Types，如```int```, ```char`
 
 ```java
 int a = 1;
-class A {
-    // constructor
-    A() {
-        // ...
-    }
-
-    // constructor with an argument
-    A(int value) {
-        this();
-        this.value = value;
-    }
-
-    int value;
-}
 ```
 
 ```java
 Integer a = 1;
 ```
-
 
 这段代码的运行结果丝毫没有变化（除了用```==```比较两个整数之外）。
 
