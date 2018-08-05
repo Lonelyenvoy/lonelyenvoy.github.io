@@ -15,7 +15,7 @@ description:
 
 ### 基本类型（Primitive Types）
 
-Java将数据类型分为基本类型（Primitive Types，如int, char）和引用类型（Reference Types，如Integer, Character）。这可能是从C++直接拿来的设计，但实际上它是一个重大的败笔。
+Java将数据类型分为基本类型（Primitive Types，如```int```, ```char```）和引用类型（Reference Types，如```Integer```, ```Character```）。这可能是从C++直接拿来的设计，但实际上它是一个重大的败笔。
 
 想象一下：我们将一段代码中的```int```类型全部换为```Integer```，会发生什么？
 
@@ -52,7 +52,7 @@ class A {
 
     // constructor with an argument
     A(int value) {
-        A();
+        this();
         this.value = value;
     }
 
@@ -60,7 +60,7 @@ class A {
 }
 ```
 
-我们发现这段简单的代码中出现了多个相同的类名```A```，分别位于类声明、构造函数声明、构造函数调用处，造成了轻微的冗余。当我们需要修改```A```的名称时，令人头疼的事情发生了：我们需要同时修改多处，这显然是不合理的设计。
+我们发现这段简单的代码中出现了多个相同的类名```A```，分别位于类声明和构造函数声明处，造成了轻微的冗余。当我们需要修改```A```的名称时，令人头疼的事情发生了：我们需要同时修改多处，这显然是不合理的设计。
 
 一个合理的解决方案是对构造函数使用特定的名称，如```initialize```。按此方案修改的代码如下：
 
@@ -73,7 +73,7 @@ class A {
 
     // constructor with an argument
     initialize(int value) {
-        initialize();
+        this();
         this.value = value;
     }
 
