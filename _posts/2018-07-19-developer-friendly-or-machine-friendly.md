@@ -3,7 +3,7 @@ layout: post
 title: 对开发者友好 or 对机器友好？
 date: 2018-07-19
 categories: blog
-tags: [开发, 杂谈]
+tags: [开发, 程序语言学]
 description: 
 ---
 
