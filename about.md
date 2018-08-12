@@ -15,14 +15,19 @@ header-img: "img/facebook.jpg"
 
 #### 兴趣
 
-- Web开发：Angular, Typescript, Java, ASP.NET Core
-- 爬虫：Python
-- 响应式和函数式编程：Rx, Scala
-- 算法设计：C/C++
-- ACM/ICPC
-- 编译器优化与性能调优
-- Linux
-- 自然语言处理 (NLP)
+- 全栈开发
+    - Web: Angular, TypeScript, Vue, Java, ASP.NET Core, Node
+    - Android: Java
+    - iOS: Swift
+    - Windows: C#
+    - 爬虫: Python
+    - 其他: ReactiveX, Lisp, Scala, C/C++
+- 程序设计语言
+    - 语言特性和语法设计
+    - 编译器前端和语言运行时开发
+    - 编译优化与性能调优
+- ACM-ICPC
+- 综合语
 
 
 #### 我的朋友们
