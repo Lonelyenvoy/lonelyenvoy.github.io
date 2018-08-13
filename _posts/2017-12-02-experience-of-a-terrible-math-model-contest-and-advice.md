@@ -3,7 +3,7 @@ layout: post
 title: 某辣鸡全国数学建模竞赛参赛经历与参赛避坑忠告
 date: 2017-12-02
 categories: blog
-tags: [Contests]
+tags: [竞赛]
 description: 
 ---
 

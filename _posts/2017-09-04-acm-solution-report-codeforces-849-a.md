@@ -3,7 +3,7 @@ layout: post
 title: Codeforces 849A 解题报告
 date: 2017-09-04
 categories: blog
-tags: [ACM, Codeforces]
+tags: [ACM]
 description: 
 ---
 
