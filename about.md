@@ -22,7 +22,7 @@ header-img: "img/facebook.jpg"
     - Windows: C#
     - 爬虫: Python
     - 其他: ReactiveX, Lisp, Scala, C/C++
-- 程序设计语言
+- Computer Language Engineering [(?)](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-035-computer-language-engineering-spring-2010/)
     - 语言特性和语法设计
     - 编译器前端和语言运行时开发
     - 编译优化与性能调优
