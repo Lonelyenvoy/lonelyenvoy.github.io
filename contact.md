@@ -18,6 +18,7 @@ header-img: "img/blue.jpg"
 <div class="form-element">
     <textarea class="field field-textarea" id="content" placeholder="您想说的话" rows="4"></textarea>
 </div>
+<div class="hint">除非您本人要求，您的个人信息及留言均不会被公开。</div>
 <button class="form-element" id="submit">提交</button>
 
 <div id="submitting" class="submit-info" style="display:none;color:blue"><p>正在提交，请稍候...</p></div>
@@ -25,8 +26,13 @@ header-img: "img/blue.jpg"
 <div id="submit-fail" class="submit-info" style="display:none;color:red"><p>提交失败，请稍后重试</p></div>
 
 <style>
-    .form-element, .submit-info {
+    .form-element, .hint, .submit-info {
         margin: 10px;
+    }
+
+    .hint {
+        color: lightsteelblue;
+        font-size: small;
     }
 
     .field {
