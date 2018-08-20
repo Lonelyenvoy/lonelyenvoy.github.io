@@ -13,6 +13,8 @@ header-img: "img/facebook.jpg"
 
 我是envoy，就读于国内某高校搬砖专业，目前是一名独立开发者。
 
+I was born to be a software engineer.
+
 #### 兴趣
 
 - 全栈开发
