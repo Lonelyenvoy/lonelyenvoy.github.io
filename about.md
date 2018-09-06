@@ -29,8 +29,9 @@ I was born to be a software engineer.
     - 编译器前端和语言运行时开发
     - 编译优化与性能调优
 - ACM-ICPC
-- 语言学：综合语 [(?)](https://steemit.com/cn/@bring/3hnmsf)
-- 世界语等人造语言 [(?)](https://zhuanlan.zhihu.com/p/21963970)
+- 语言学
+    - 综合语 [(?)](https://steemit.com/cn/@bring/3hnmsf)
+    - 世界语等人造语言 [(?)](https://zhuanlan.zhihu.com/p/21963970)
 
 
 #### 我的朋友们
