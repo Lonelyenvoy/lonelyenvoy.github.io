@@ -28,7 +28,8 @@ I was born to be a software engineer.
     - 语言特性和语法设计
     - 编译器前端和语言运行时开发
     - 编译优化与性能调优
-- ACM-ICPC
+- Competitive Programming
+    - ACM-ICPC [(?)](https://baike.baidu.com/item/ACM%E5%9B%BD%E9%99%85%E5%A4%A7%E5%AD%A6%E7%94%9F%E7%A8%8B%E5%BA%8F%E8%AE%BE%E8%AE%A1%E7%AB%9E%E8%B5%9B/3652262)
 - 语言学
     - 综合语 [(?)](https://steemit.com/cn/@bring/3hnmsf)
     - 世界语等人造语言 [(?)](https://zhuanlan.zhihu.com/p/21963970)
