@@ -30,13 +30,13 @@ description:
 
 |总分|听力|阅读|口语|写作|
 |---|---|---|---|---|
-|7.0|7.5|8.5|5.5|5.5|
+|**7.0**|7.5|8.5|5.5|5.5|
 
 二刷：2018年8月25日
 
 |总分|听力|阅读|口语|写作|
 |---|---|---|---|---|
-|7.5|8.0|8.5|7.0|6.0|
+|**7.5**|8.0|8.5|7.0|6.0|
 
 > IELTS is a skill. Like any other skill, it can be deconstructed and learnt very quickly if you only focus on the critical elements.
 
