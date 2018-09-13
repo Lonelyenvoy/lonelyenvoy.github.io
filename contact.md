@@ -18,7 +18,7 @@ header-img: "img/blue.jpg"
 <div class="form-element">
     <textarea class="field field-textarea" id="content" placeholder="您想说的话" rows="4"></textarea>
 </div>
-<div class="hint">您的留言不会公开显示；如果您选择匿名，我将无法回复您的留言。</div>
+<div class="hint">您的留言为私信，不会公开显示；如果您选择匿名，我将无法回复您的留言。</div>
 <button class="form-element" id="submit">提交</button>
 
 <div id="submitting" class="submit-info" style="display:none;color:blue"><p>正在提交，请稍候...</p></div>
