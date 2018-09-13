@@ -38,7 +38,7 @@ description:
 |---|---|---|---|---|
 |**7.5**|8.0|8.5|7.0|6.0|
 
-> IELTS is a skill. Like any other skill, it can be deconstructed and learnt very quickly if you only focus on the critical elements.
+> IELTS is a skill. Like any other skill, it can be deconstructed and learnt very quickly if you only focus on the critical elements. *(From [Ultimate Guide To Hacking IELTS, AustraliaYours](https://australiayours.com/ultimate-guide-to-ielts/))*
 
 攻略如下。如果你的英语能力较好，可以不准备四科中的其中几科裸考，但是：众所周知，写作是雅思中最难的部分。**除非你是天才，否则<u>写作部分</u>必须准备才能拿到高分。**
 
@@ -103,6 +103,7 @@ description:
 2. **先做简单题**，再做难题（因为得分概率和性价比比较低）。以下题型为难题：
     - List of headings
     - Complete the sentences
+    - Which paragraph contains the following information
     - 排序题（非常罕见）
 3. True/False/Not Given题请一次**同时看两到三个选项再到文中找**，避免出现因为Not Given一直定位不到信息，浪费大量时间的情况。
 4. 读文章时请先阅读**标题**和**每段第一句话**，可以帮助你快速理解文章大意和篇章结构：在True/False/Not Given题中更快确定信息在哪一段。
@@ -154,7 +155,7 @@ description:
     - 建议限制如下：
     - Task 1: 17 mins, 170-240 words.
     - Task 2: 35 mins, 280-340 words.
-2. 平时练习时使用**雅思答题卡**来写作文，写完数一下字数，看看写到第几行字数达标。这样你在考试时可以感觉到自己大概写了多少字，而不用担心underlength。
+2. （选择纸考的同学）平时练习时使用**雅思答题卡**来写作文，写完数一下字数，看看写到第几行字数达标。这样你在考试时可以感觉到自己大概写了多少字，而不用担心underlength。
 3. **找人批改你的作文**：最好是老师，差一点也要是同学。写作的过程无法提升你的能力，找人修改、与之前对比，才能提高。
 4. 背**词组、短语**，而不是背单词。单纯背单词你很难掌握它的用法，对写作几乎没有帮助。考官更希望看到的是地道的表达，而不是高难度的、不常用的单词。可找到相关的写作短语书籍<sup>[尾注]</sup>。
 5. 不要忽略小作文。小作文比大作文更容易拿分，也是写作获得高分的前提。（笔者练小作文太少，导致小作文比大作文低1分，可惜了）
