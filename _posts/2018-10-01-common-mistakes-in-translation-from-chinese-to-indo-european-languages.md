@@ -68,7 +68,7 @@ description:
 英语案例
 
 - 原文：人们尚未探索过这一问题。
-- 不良译文：People has not yet explored the issue.
+- 不良译文：People have not yet explored the issue.
 - 正确译文：The issue has not yet been explored.
 
 德语案例
