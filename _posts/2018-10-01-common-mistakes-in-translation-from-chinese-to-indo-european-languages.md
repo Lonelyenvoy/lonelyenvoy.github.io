@@ -30,8 +30,8 @@ description:
 英语案例
 
 - 原文：江水倒灌，西京市茶叶市场损失严重。
-- 错误译文：The water from the river was flowing backwards, the Xijing tea trading market is expected to suffer heavy losses.
-- 正确译文：The water from the river was flowing backwards which caused flooding in the Xijing tea trading market which is expected to suffer heavy losses. （补充：江水倒灌（引发）西京市茶叶市场（洪水），（市场）损失严重。）
+- 错误译文：The water from the river was flowing backwards, the Xijing tea trading market was expected to suffer heavy losses.
+- 正确译文：The water from the river was flowing backwards which caused flooding in the Xijing tea trading market which was expected to suffer heavy losses. （补充：江水倒灌（引发）西京市茶叶市场（出现洪水），（市场）损失严重。）
 
 
 德语案例
