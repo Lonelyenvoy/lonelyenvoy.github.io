@@ -44,7 +44,7 @@ header-img: "img/facebook.jpg"
 
 #### 联系我
 
-- [Github](https://github.com/lonelyenvoy)
+- [GitHub](https://github.com/lonelyenvoy)
 - [给我留言]({{ site.url }}/contact)
 
 ---
