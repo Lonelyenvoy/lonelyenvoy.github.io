@@ -47,3 +47,10 @@ header-img: "img/facebook.jpg"
 - [Github](https://github.com/lonelyenvoy)
 - [给我留言]({{ site.url }}/contact)
 
+---
+
+##### 为科学亮起一座灯塔
+
+我是*IBM世界公共网格计划*的一名志愿者，致力于通过科技解决全球疾病和可持续发展问题。
+
+<iframe src="https://www.worldcommunitygrid.org/getDynamicImage.do?global=true&mnOn=false&stat=4&imageNum=1&rankOn=false&projectsOn=false&special=false&link=1&memberId=1078113" frameborder="0" name="di" scrolling="no" width="405px" height="145px"></iframe>
