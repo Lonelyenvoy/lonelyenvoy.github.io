@@ -13,6 +13,8 @@ header-img: "img/facebook.jpg"
 
 我就读于国内某高校搬砖专业，目前是一名独立开发者。
 
+> "He is someone who prizes truth and objectivity above all things." 
+> *<p align="right">A friend of the blogger</p>*
 
 #### 兴趣
 > 尚未有统一中文译名的术语用英语表示。
