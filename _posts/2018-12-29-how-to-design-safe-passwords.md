@@ -62,7 +62,7 @@ zhlalq
 
 ![维吉尼亚密码示意图](http://upload-images.jianshu.io/upload_images/2482101-660f70ac37ab9af5.jpg?imageMogr2/auto-orient/strip%7CimageView2/2/w/500)
 
-我们首先需要一个**密钥**，可以是任何字母组成的串，比如`big`。
+方式2是方式1的加强版。我们首先需要一个**密钥**，可以是任何字母组成的串，比如`big`。
 
 然后我们使用上图进行转换：第一行表示需要转换的字母，第一列表示密钥的字母。
 
