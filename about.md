@@ -35,6 +35,10 @@ header-img: "img/facebook.jpg"
 - 语言学
     - 综合语 [(?)](https://steemit.com/cn/@bring/3hnmsf)
     - 世界语等人造语言 [(?)](https://zhuanlan.zhihu.com/p/21963970)
+- 心理学
+    - 认知心理学
+    - 社会心理学
+- 博弈论
 
 
 #### 我的朋友们
