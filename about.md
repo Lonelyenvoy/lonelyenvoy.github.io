@@ -34,7 +34,9 @@ header-img: "img/facebook.jpg"
         - ACM-ICPC 国际大学生程序设计竞赛 [(?)](https://baike.baidu.com/item/ACM%E5%9B%BD%E9%99%85%E5%A4%A7%E5%AD%A6%E7%94%9F%E7%A8%8B%E5%BA%8F%E8%AE%BE%E8%AE%A1%E7%AB%9E%E8%B5%9B/3652262)
 - 语言学
     - 综合语 [(?)](https://steemit.com/cn/@bring/3hnmsf)
-    - 世界语等人造语言 [(?)](https://zhuanlan.zhihu.com/p/21963970)
+    - 人造语言 [(?)](https://zhuanlan.zhihu.com/p/21963970)
+        - 世界语 Esperanto [(?)](https://baike.baidu.com/item/%E4%B8%96%E7%95%8C%E8%AF%AD)
+        - 逻辑语 la .lojban. [(?)](https://mw.lojban.org/index.php?title=Lojban&setlang=zh)
 - 心理学
     - 认知心理学
     - 社会心理学
@@ -44,7 +46,7 @@ header-img: "img/facebook.jpg"
 #### 我的朋友们
 
 - [忆兔](http://yirabbit.me)
-- [小神先生](http://alienx.cn)
+- [小神先生](http://blog.alienx.cn/)
 
 
 #### 联系我
