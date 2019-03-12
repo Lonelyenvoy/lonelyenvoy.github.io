@@ -1,7 +1,7 @@
 ---
 layout: page
-title: "Contact"
-subtitle: "留言"
+title: "留言"
+subtitle: "Contact"
 description: "联系博主"  
 header-img: "img/blue.jpg"  
 ---
