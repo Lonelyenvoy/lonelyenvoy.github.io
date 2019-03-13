@@ -48,7 +48,7 @@ header-img: "img/facebook.jpg"
 
 #### 我的朋友们
 
-- [忆兔](http://128.199.94.143){:target="_blank"}
+- [忆兔<sup>网站维护中</sup>](http://128.199.94.143){:target="_blank"}
 - [小神先生](http://blog.alienx.cn/){:target="_blank"}
 
 
