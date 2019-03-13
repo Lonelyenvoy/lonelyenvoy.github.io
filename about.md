@@ -61,6 +61,13 @@ header-img: "img/facebook.jpg"
 - 博弈论
 
 
+#### 我是以下前辈的追随者
+
+- [John Warner Backus](https://baike.baidu.com/item/%E7%BA%A6%E7%BF%B0%C2%B7%E5%B7%B4%E5%85%8B%E6%96%AF/3510474){:target="_blank"}（计算机工程师/科学家）
+- [Edsger Wybe Dijkstra](https://baike.baidu.com/item/%E8%89%BE%E5%85%B9%E6%A0%BC%C2%B7%E8%BF%AA%E7%A7%91%E6%96%AF%E5%BD%BB/5029407){:target="_blank"}（计算机科学家）
+- [Avram Noam Chomsky](https://baike.baidu.com/item/%E8%AF%BA%E5%A7%86%C2%B7%E4%B9%94%E5%A7%86%E6%96%AF%E5%9F%BA/5106961){:target="_blank"}（语言学家、哲学家、认知科学家、逻辑学家）
+
+
 #### 我的朋友们
 
 - [忆兔<sup>网站维护中</sup>](http://128.199.94.143){:target="_blank"}
