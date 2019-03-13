@@ -24,8 +24,7 @@ header-img: "img/facebook.jpg"
 <div class="tag-wrapper">
     <span class="tag">工匠</span>
     <span class="tag">完美主义者</span>
-    <span class="tag">观察者</span>
-    <span class="tag">不带感情的冷静客观者</span>
+    <span class="tag">不带感情的客观观察者</span>
     <span class="tag">质疑者、挑战者和批判者</span>
     <span class="tag">防御性悲观主义者</span>
     <span class="tag">利己主义者</span>
