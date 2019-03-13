@@ -13,10 +13,13 @@ header-img: "img/facebook.jpg"
 
 我就读于国内某高校搬砖专业，目前是一名独立开发者。
 
-"Someone who prizes truth and objectivity above all things"
+对客观世界的好奇心驱使着我不断探索人类涉足的各个领域。
+
+> *"He is someone who prizes knowledge, truth and objectivity above all things." - A friend of mine*
+
 
 #### 兴趣
-> 尚未有统一中文译名的术语用英语表示。
+<sub>尚未有统一中文译名的术语用英语表示。</sub>
 
 - 计算机科学与技术
     - 全栈开发
