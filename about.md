@@ -18,6 +18,21 @@ header-img: "img/facebook.jpg"
 > *"He is someone who prizes knowledge, truth and objectivity above all things." - A friend of mine*
 
 
+#### 人格特征
+通过以下关键词来快速了解我：
+
+<div class="tag-wrapper">
+    <span class="tag">工匠</span>
+    <span class="tag">完美主义者</span>
+    <span class="tag">防御性悲观主义者</span>
+    <span class="tag">质疑者、挑战者和批判者</span>
+    <span class="tag">利己主义者</span>
+    <span class="tag">愤世嫉俗者</span>
+    <span class="tag">纸上谈兵者</span>
+    <span class="tag">冷血动物</span>
+</div>
+
+
 #### 兴趣
 <sub>尚未有统一中文译名的术语用英语表示。</sub>
 
@@ -44,19 +59,6 @@ header-img: "img/facebook.jpg"
     - 认知心理学
     - 社会心理学
 - 博弈论
-
-
-#### 人格特征
-通过关键词来快速了解我：
-
-- 工匠
-- 完美主义者
-- 防御性悲观主义者
-- 质疑者、挑战者和批判者
-- 利己主义者
-- 愤世嫉俗者
-- 纸上谈兵者
-- 冷血动物
 
 
 #### 我的朋友们

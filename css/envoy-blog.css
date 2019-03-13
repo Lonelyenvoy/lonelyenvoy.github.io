@@ -1,3 +1,24 @@
 a {
     color: #2B4180;
 }
+
+.tag {
+    border: 1px solid #46A5ED;
+    color: #46A5ED;
+    border-radius: 28px;
+    padding-left: 15px;
+    padding-right: 15px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    font-size: 13px;
+    margin: 4px;
+}
+
+.tag:hover {
+    border: 1px solid #93e1de;
+    color: #93e1de;
+}
+
+.tag-wrapper {
+    margin-bottom: 10px;
+}
