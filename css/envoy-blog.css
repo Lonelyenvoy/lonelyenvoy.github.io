@@ -2,7 +2,7 @@ a {
     color: #2B4180;
 }
 
-.tag {
+.personal-tag {
     border: 1px solid #46A5ED;
     color: #46A5ED;
     border-radius: 28px;
@@ -14,23 +14,46 @@ a {
     line-height: 24px;
 }
 
-.tag:hover {
+.personal-tag:hover {
     border: 1px solid #0085a1;
     color: #0085a1;
 }
 
-.tag a {
+.personal-tag a {
     color: #46A5ED;
     cursor: pointer;
 }
 
-.tag a:hover {
+.personal-tag a:hover {
     color: #0085a1;
 }
 
-.tag-wrapper {
+.personal-tag-wrapper {
     margin-top: -10px;
     margin-bottom: 30px;
+    display: flex;
+    flex-wrap: wrap;
+}
+
+
+.tag {
+    border: 1px solid white;
+    color: white;
+    border-radius: 28px;
+    padding-left: 15px;
+    padding-right: 15px;
+    font-size: 13px;
+    margin: 4px;
+    height: 24px;
+    line-height: 24px;
+}
+
+.tag:hover {
+    color: white;
+    background-color: #249d66;
+}
+
+.tags {
     display: flex;
     flex-wrap: wrap;
 }
