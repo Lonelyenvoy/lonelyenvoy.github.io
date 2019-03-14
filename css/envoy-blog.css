@@ -51,6 +51,7 @@ a {
 .tag:hover {
     color: white;
     background-color: #249d66;
+    text-decoration: none;
 }
 
 .tags {
