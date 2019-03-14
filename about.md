@@ -61,6 +61,14 @@ header-img: "img/facebook.jpg"
 - 博弈论
 
 
+#### 喜欢的音乐
+
+- Sad Angel (Igor Krutoy)
+- 克罗地亚狂想曲 (Maksim Mrvica)
+- The truth that you leave (Pianoboy)
+- Love Story Meets Viva la Vida (Jon Schmidt)
+
+
 #### 我是以下前辈的追随者
 
 - [John Warner Backus](https://baike.baidu.com/item/%E7%BA%A6%E7%BF%B0%C2%B7%E5%B7%B4%E5%85%8B%E6%96%AF/3510474){:target="_blank"}（计算机工程师）
