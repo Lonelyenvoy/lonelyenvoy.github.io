@@ -19,6 +19,15 @@ a {
     color: #0085a1;
 }
 
+.tag a {
+    color: #46A5ED;
+    cursor: pointer;
+}
+
+.tag a:hover {
+    color: #0085a1;
+}
+
 .tag-wrapper {
     margin-top: -10px;
     margin-bottom: 30px;
