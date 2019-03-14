@@ -69,6 +69,17 @@ header-img: "img/facebook.png"
 - Love Story Meets Viva la Vida (Jon Schmidt)
 
 
+#### 喜欢的电影
+
+- 盗梦空间（诺兰，2010）
+- 星际穿越（诺兰，2014）
+- 记忆碎片（诺兰，2000）
+- 黑客帝国（沃卓斯基，1999） 
+- 看不见的客人（保罗，2016）
+- 降临（维伦纽瓦，2016）
+- 辩护人（杨宇硕，2013）
+
+
 #### 我是以下前辈的追随者
 
 - [John Warner Backus](https://baike.baidu.com/item/%E7%BA%A6%E7%BF%B0%C2%B7%E5%B7%B4%E5%85%8B%E6%96%AF/3510474){:target="_blank"}（计算机工程师）
