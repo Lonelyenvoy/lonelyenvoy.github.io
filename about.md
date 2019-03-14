@@ -3,7 +3,7 @@ layout: page
 title: "关于我"
 subtitle: "About"
 description: "关于我"
-header-img: "img/facebook.jpg"
+header-img: "img/facebook.png"
 ---
 
 

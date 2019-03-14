@@ -1,6 +1,6 @@
 # Site settings
 title: 行者驿站
-header-img: "img/green.jpg"
+header-img: "img/green.png"
 tagline: "cn"  
 description: "envoy's blog"  
 baseurl: ""
@@ -45,7 +45,7 @@ defaults:
     values:
       layout: "post"
       author: "envoy"
-      header-img: "img/green.jpg" # We don't want posts without a header image, that whould mean white on white
+      header-img: "img/green.png" # We don't want posts without a header image, that whould mean white on white
 
 # Comments 
 comments :

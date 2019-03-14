@@ -3,7 +3,7 @@ layout: page
 title: "标签"
 subtitle: "Tags"
 description: "哈哈，你找到了我的文章基因库"  
-header-img: "img/semantic.jpg"  
+header-img: "img/semantic.png"  
 ---
 
 #### 本页使用方法

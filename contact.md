@@ -3,7 +3,7 @@ layout: page
 title: "留言"
 subtitle: "Contact"
 description: "联系博主"  
-header-img: "img/blue.jpg"  
+header-img: "img/blue.png"  
 ---
 
 <div class="form-element" id="anonymousDiv">
