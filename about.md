@@ -62,7 +62,7 @@ header-img: "img/facebook.png"
         - ACM-ICPC 国际大学生程序设计竞赛 [(?)](https://baike.baidu.com/item/ACM%E5%9B%BD%E9%99%85%E5%A4%A7%E5%AD%A6%E7%94%9F%E7%A8%8B%E5%BA%8F%E8%AE%BE%E8%AE%A1%E7%AB%9E%E8%B5%9B/3652262){:target="_blank"}
 - 语言学
     - 综合语 [(?)<sup>需要梯子</sup>](https://steemit.com/cn/@bring/3hnmsf){:target="_blank"}
-    - 印欧语系语言
+    - 印欧语系
     - 人造语言 [(?)](https://zhuanlan.zhihu.com/p/21963970){:target="_blank"}
         - 世界语 Esperanto [(?)](https://baike.baidu.com/item/%E4%B8%96%E7%95%8C%E8%AF%AD){:target="_blank"}
         - 逻辑语 la .lojban. [(?)](https://mw.lojban.org/index.php?title=Lojban&setlang=zh){:target="_blank"}
