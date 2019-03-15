@@ -22,14 +22,14 @@ header-img: "img/facebook.png"
 通过以下关键词来快速了解我：
 
 <div class="personal-tag-wrapper">
-    <span class="personal-tag">工匠</span>
-    <span class="personal-tag">完美主义者</span>
+    <span class="personal-tag positive-tag">工匠</span>
+    <span class="personal-tag positive-tag">完美主义者</span>
     <span class="personal-tag">客观、不带感情的观察者</span>
     <span class="personal-tag">质疑者、挑战者和批判者</span>
     <span class="personal-tag">防御性悲观主义者 <a href="https://baike.baidu.com/item/%E9%98%B2%E5%BE%A1%E6%80%A7%E6%82%B2%E8%A7%82" target="_blank">(?)</a></span>
     <span class="personal-tag">愤世嫉俗者</span>
-    <span class="personal-tag">利己主义者</span>
-    <span class="personal-tag">纸上谈兵者</span>
+    <span class="personal-tag negative-tag">利己主义者</span>
+    <span class="personal-tag negative-tag">纸上谈兵者</span>
 </div>
 
 

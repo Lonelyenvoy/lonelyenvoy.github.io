@@ -1,42 +1,8 @@
-/* last modified: 20190314 19:41 */
+/* last modified: 20190315 13:02 */
 
 a {
     color: #2B4180;
 }
-
-.personal-tag {
-    border: 1px solid #46A5ED;
-    color: #46A5ED;
-    border-radius: 28px;
-    padding-left: 15px;
-    padding-right: 15px;
-    font-size: 13px;
-    margin: 4px;
-    height: 24px;
-    line-height: 24px;
-}
-
-.personal-tag:hover {
-    border: 1px solid #0085a1;
-    color: #0085a1;
-}
-
-.personal-tag a {
-    color: #46A5ED;
-    cursor: pointer;
-}
-
-.personal-tag a:hover {
-    color: #0085a1;
-}
-
-.personal-tag-wrapper {
-    margin-top: -10px;
-    margin-bottom: 30px;
-    display: flex;
-    flex-wrap: wrap;
-}
-
 
 .tag {
     border: 1px solid white;
@@ -57,6 +23,49 @@ a {
 }
 
 .tags {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.personal-tag {
+    border: 1px solid #46A5ED;
+    color: #46A5ED;
+    border-radius: 28px;
+    padding-left: 15px;
+    padding-right: 15px;
+    font-size: 13px;
+    margin: 4px;
+    height: 24px;
+    line-height: 24px;
+}
+
+.positive-tag {
+    border: 1px solid #4bb2ff;
+    color: #4bb2ff;
+}
+
+.negative-tag {
+    border: 1px solid #3f95d7;
+    color: #3f95d7;
+}
+
+.personal-tag:hover {
+    border: 1px solid #0085a1;
+    color: #0085a1;
+}
+
+.personal-tag a {
+    color: #46A5ED;
+    cursor: pointer;
+}
+
+.personal-tag a:hover {
+    color: #0085a1;
+}
+
+.personal-tag-wrapper {
+    margin-top: -10px;
+    margin-bottom: 30px;
     display: flex;
     flex-wrap: wrap;
 }
