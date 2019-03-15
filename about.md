@@ -21,6 +21,16 @@ header-img: "img/facebook.png"
 #### 人格特征
 通过以下关键词来快速了解我：
 
+##### 表象
+
+<div class="personal-tag-wrapper">
+    <span class="personal-tag">沉静</span>
+    <span class="personal-tag">专注</span>
+    <span class="personal-tag">拘谨</span>
+</div>
+
+##### 本质
+
 <div class="personal-tag-wrapper">
     <span class="personal-tag positive-tag">工匠</span>
     <span class="personal-tag positive-tag">完美主义者</span>
