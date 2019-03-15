@@ -1,4 +1,4 @@
-/* last modified: 20190315 13:02 */
+/* last modified: 20190315 15:51 */
 
 a {
     color: #2B4180;
@@ -40,13 +40,13 @@ a {
 }
 
 .positive-tag {
-    border: 1px solid #4bb2ff;
-    color: #4bb2ff;
+    border: 1px solid #3f95d7;
+    color: #3f95d7;
 }
 
 .negative-tag {
-    border: 1px solid #3f95d7;
-    color: #3f95d7;
+    border: 1px solid #4bb2ff;
+    color: #4bb2ff;
 }
 
 .personal-tag:hover {
