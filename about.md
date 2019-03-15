@@ -11,7 +11,7 @@ header-img: "img/facebook.png"
     <p><img src="/img/envoy.png" align="center"></p>
 </center>
 
-我就读于国内某高校搬砖专业，目前是一名独立开发者。
+我就读于国内某高校搬砖专业，目前是一名 <span style="color: gray">~~攻城狮~~</span> 独立开发者。
 
 对客观世界的好奇心驱使着我不断探索人类涉足的各个领域。
 
