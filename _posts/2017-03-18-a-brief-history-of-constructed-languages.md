@@ -6,7 +6,7 @@ categories: blog
 tags: [语言学]
 description: 
 ---
-<img src="/img/envoy-big.png" alt="">
+
 > 什么是人工语言？
 
 ### 辅助语言
