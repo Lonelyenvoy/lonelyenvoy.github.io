@@ -7,7 +7,7 @@ tags: [语言学]
 description: 
 ---
 
-<img src="/img/envoy-big.png" style="display: none">
+<img src="/img/envoy-big.png" style="display: none" alt="">
 
 > 什么是人工语言？
 
