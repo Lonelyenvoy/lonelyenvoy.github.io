@@ -65,7 +65,10 @@
 
 <!-- remove "about me" link when current page is already the about page -->
 <script>
-    if (window.location.pathname === '/about') {
-        document.getElementById('about-me-link-wrapper').style.display = none;
-    }
+    // document.ready defined in nav.html
+    document.ready(function () {
+        if (window.location.pathname === '/about') {
+            document.getElementById('about-me-link-wrapper').style.display = none;
+        }
+    });
 </script>
