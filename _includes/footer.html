@@ -1,7 +1,10 @@
 <!-- Footer -->
 <footer style="padding:20px 0 105px;">
     <center id="about-me-link-wrapper">
-        <a href="{{ site.url }}/about/" style="text-decoration:underline;font-size:16px;">关于我</a>
+        <a href="{{ site.url }}/about/" style="text-decoration:underline;font-size:16px">关于我</a>
+    </center>
+    <center id="home-link-wrapper" style="display:none;">
+        <a href="{{ site.url }}" style="text-decoration:underline;font-size:16px">我的文章</a>
     </center>
     <div class="container">
         <div class="row">
@@ -63,12 +66,13 @@
 <!-- Bmob Visitor Statistics -->
 <script src="{{ "/js/bmob/envoy-statistics.min.js" | prepend: site.baseurl }}"></script>
 
-<!-- remove "about me" link when current page is already the about page -->
+<!-- remove "about me" link and add "home" link when current page is the about page -->
 <script>
-    // document.ready defined in nav.html
+    // document.ready is defined in nav.html
     document.ready(function () {
         if (window.location.pathname === '/about' || window.location.pathname === '/about/') {
             document.getElementById('about-me-link-wrapper').style.display = 'none';
+            document.getElementById('home-link-wrapper').style.display = '';
         }
     });
 </script>
