@@ -1,6 +1,6 @@
 <!-- Footer -->
 <footer style="padding:20px 0 105px;">
-    <center>
+    <center id="about-me-link-wrapper">
         <a href="{{ site.url }}/about/" style="text-decoration:underline;font-size:16px;">关于我</a>
     </center>
     <div class="container">
@@ -62,3 +62,14 @@
 
 <!-- Bmob Visitor Statistics -->
 <script src="{{ "/js/bmob/envoy-statistics.min.js" | prepend: site.baseurl }}"></script>
+
+<!-- remove "about me" link when current page is already the about page -->
+<script>
+    (function() {
+        var url = window.location.href;
+        var lastPiece = url.substring(url.lastIndexOf('/') + 1, url.lastIndexOf('?'));
+        if (lastPiece === 'about') {
+            document.getElementById('about-me-link-wrapper').style.display = none;
+        }
+    })();
+</script>
