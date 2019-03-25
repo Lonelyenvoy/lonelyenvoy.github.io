@@ -65,11 +65,7 @@
 
 <!-- remove "about me" link when current page is already the about page -->
 <script>
-    (function() {
-        var url = window.location.href;
-        var lastPiece = url.substring(url.lastIndexOf('/') + 1, url.lastIndexOf('?'));
-        if (lastPiece === 'about') {
-            document.getElementById('about-me-link-wrapper').style.display = none;
-        }
-    })();
+    if (window.location.pathname === '/about') {
+        document.getElementById('about-me-link-wrapper').style.display = none;
+    }
 </script>
