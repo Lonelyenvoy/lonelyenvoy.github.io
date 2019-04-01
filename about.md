@@ -121,7 +121,7 @@ header-img: "img/facebook.png"
     <iframe src="https://www.worldcommunitygrid.org/getDynamicImage.do?global=true&mnOn=false&stat=4&imageNum=1&rankOn=false&projectsOn=false&special=false&link=1&memberId=1078113" frameborder="0" name="di" scrolling="no" width="405px" height="145px"></iframe>
 </center>
 
-<div style="font-size: 6px; color: white">
+<div style="font-size: 6px; color: #f7f7f7;">
 <strong>致有故事的人</strong>
 
 （一）
