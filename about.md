@@ -120,3 +120,28 @@ header-img: "img/facebook.png"
 <center style="overflow: scroll">
     <iframe src="https://www.worldcommunitygrid.org/getDynamicImage.do?global=true&mnOn=false&stat=4&imageNum=1&rankOn=false&projectsOn=false&special=false&link=1&memberId=1078113" frameborder="0" name="di" scrolling="no" width="405px" height="145px"></iframe>
 </center>
+
+<div style="font-size: 6px; color: white">
+<strong>致有故事的人</strong>
+
+（一）
+
+十三学得琵琶成，名属教坊第一部。曲罢曾教善才服，妆成每被秋娘妒。
+
+轻拢慢捻抹复挑，初为霓裳后六幺。大弦嘈嘈如急雨，小弦切切如私语。嘈嘈切切错杂弹，大珠小珠落玉盘。
+
+钿头银篦击节碎，血色罗裙翻酒污。
+
+弟走从军阿姨死，暮去朝来颜色故。
+
+——《琵琶行》
+
+（二）
+
+静言思之，躬自悼矣。
+
+淇则有岸，隰则有泮。总角之宴，言笑晏晏，信誓旦旦，不思其反。反是不思，亦已焉哉！
+
+——《卫风·氓》
+
+</div>
