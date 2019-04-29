@@ -70,6 +70,7 @@ header-img: "img/facebook.png"
     - 认知心理学
     - 社会心理学
     - 人格心理学
+- 哲学
 - 博弈论
 
 
