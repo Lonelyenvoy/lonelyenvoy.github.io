@@ -11,7 +11,7 @@ header-img: "img/facebook.png"
     <p><img src="/img/envoy.png" align="center"></p>
 </center>
 
-<center style="color: darkgray; font-size: xx-large">
+<center style="color: darkgray; font-size: xx-large; font-weight: lighter">
     Flocci-nauci-nihili-pili-fication
     <span style="font-size: xx-small">1741</span>
 </center>
