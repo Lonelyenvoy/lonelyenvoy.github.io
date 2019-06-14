@@ -11,6 +11,11 @@ header-img: "img/facebook.png"
     <p><img src="/img/envoy.png" align="center"></p>
 </center>
 
+<center style="color: darkgray; font-size: xx-large">
+    Flocci-nauci-nihili-pili-fication
+    <span style="font-size: xx-small">1741</span>
+</center>
+
 我就读于国内某高校搬砖专业，目前是一名 <span style="color: gray">~~攻城狮~~</span> 独立开发者。
 
 对客观世界的好奇心驱使着我不断探索人类涉足的各个领域。
