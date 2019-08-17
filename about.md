@@ -20,6 +20,8 @@ header-img: "img/facebook.png"
 
 对客观世界的好奇心驱使着我不断探索人类涉足的各个领域。
 
+我追求思维的深度，不断提升自己的洞察力，试图透过现象分析所有事物的本质。
+
 我的字典里没有“公理”这个词：我不把任何现象、事实或观点（包括常识）视为理所当然，而是从零开始推理和分析事物，从而减少主观和偏见。因此，拒绝客观看待事物、盲从权威、固守传统的人不会得到我的尊重。
 
 > *"He is someone who prizes knowledge, truth and objectivity above all things." - A friend of mine*
