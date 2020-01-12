@@ -40,16 +40,25 @@
 
   // fetch ip info from ipapi
   $.get('https://ipapi.co/json', function (data) {
+    delete data.country_code;
+    delete data.country_code_iso3;
+    delete data.country_capital;
+    delete data.country_tld;
     delete data.in_eu;
     delete data.postal;
+    delete data.latitude;
+    delete data.longitude;
+    delete data.currency_name;
+    delete data.country_area;
+    delete data.country_population;
+    delete data.message;
+
     data.ipv4 = window.returnCitySN ? window.returnCitySN.cip : '';  // add ipv4 from sohu
     data.url = window.location.href;  // add url
     data.userAgent = navigator.userAgent; // add userAgent
     sendIpInfoToBmob(data);
   }).fail(function () {
     console.log('Failed to fetch ip info from ipapi');
-    delete data.in_eu;
-    delete data.postal;
     var data = {
       ipv4: window.returnCitySN ? window.returnCitySN.cip : '',  // add ipv4 from sohu
       url: window.location.href,  // add url
