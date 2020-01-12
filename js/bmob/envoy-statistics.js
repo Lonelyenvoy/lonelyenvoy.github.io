@@ -1,7 +1,7 @@
 /*
  * envoy statistics script
  * powered by bmob JavaScript SDK
- * version 0.5.1
+ * version 0.6.0
  * 
  * require: Sohu IP interface (https://pv.sohu.com/cityjson)
  *          Bmob SDK (https://docs.bmob.cn)
