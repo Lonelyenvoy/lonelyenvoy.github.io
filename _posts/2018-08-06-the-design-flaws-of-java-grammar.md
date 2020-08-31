@@ -3,7 +3,7 @@ layout: post
 title: Java 语言的设计缺陷
 date: 2018-08-06
 categories: blog
-tags: [程序语言学]
+tags: [编程语言]
 description: 
 ---
 

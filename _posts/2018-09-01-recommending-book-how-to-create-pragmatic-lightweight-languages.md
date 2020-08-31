@@ -3,7 +3,7 @@ layout: post
 title: 好书推荐：《如何创造实用的、轻量级的语言》
 date: 2018-09-01
 categories: blog
-tags: [程序语言学]
+tags: [编程语言]
 description: 
 ---
 
